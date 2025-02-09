@@ -1,5 +1,5 @@
 # 🏛️ Lawyer Portfolio Website  
-🚀 **Live Website:** (https://nithyamendonca.com/)]
+🚀 **Live Website:** https://nithyamendonca.com/
 
 ## 📌 Overview  
 A professional portfolio website designed to showcase the expertise of a lawyer. The site provides an elegant and responsive user experience with well-structured sections for services and direct contact.  
